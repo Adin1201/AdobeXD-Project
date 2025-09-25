@@ -1,3 +1,6 @@
+Please read the README.
+Obavezno pročitati README.
+
 ENGLISH AND BOSNIAN VERSION
 
 # UI/UX Projects
